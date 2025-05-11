@@ -1,2 +1,4 @@
 # game-of-life
-Conway's Game Of Life using Object-Oriented Programming (OOP) and Pygame
+A simulation of Conway's Game of Life implemented using Object-Oriented Programming (OOP) principles and Pygame
+
+Working in progress 💡
