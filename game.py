@@ -1,7 +1,7 @@
 import pygame
 
 from game_objects import Game, Grid, Cell
-import utils
+from utils import FPS
 
 def main():
     pygame.init()
@@ -20,7 +20,7 @@ def main():
         game.grid.draw(game.screen)
 
         pygame.display.flip()
-        game.clock.tick(60)
+        game.clock.tick(FPS)
 
     pygame.quit()
 
