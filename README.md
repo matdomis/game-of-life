@@ -6,7 +6,7 @@ To learn more about Game Of Life, visit the [game's Wikipedia](https://pt.wikipe
 
 <br>
 <p align="center">
-  <img src="output.gif" alt="Game Of Life gif" width="600"/>
+  <img src="img/output.gif" alt="Game Of Life gif" width="600"/>
 </p>
 
 <br>
